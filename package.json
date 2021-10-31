@@ -1,0 +1,11 @@
+{
+  "name": "@frogjs/prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "peerDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
